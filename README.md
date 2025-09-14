@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitGoing 🏃🏽‍♀️💨
 GitGoing is a beginner-friendly project focused on tracking progress and learning how to use git and GitHub.
 
@@ -105,3 +106,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# first-repo
+first repo
+>>>>>>> 46ec5db0d09cd70e4ee7b602a65d6dea1e2dc41e
